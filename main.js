@@ -14,7 +14,7 @@ function check() {
     }
     
     var messages = ["Perfect!", "Almost there", "Keep trying"];
-    var pictures = ["img/win.gif", "img/still.gif", "img/lose.gif"]
+    var pictures = ["img/Win.gif", "img/still.gif", "img/lose.gif"]
     var range;
     if (correct < 1) {
         range = 2;
